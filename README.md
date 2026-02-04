@@ -38,12 +38,11 @@ I develop technology solutions at the intersection of engineering and healthcare
 
 ### 🎓 Education
 
-**Biomedical Engineering** (92% completed)  
+**Biomedical Engineering** (94% completed)  
 Facultad de Ingeniería - Universidad Nacional de Entre Ríos (UNER)
 
 **Research Groups:**
-- CIRINS - Centro de Ingeniería en Rehabilitación e Investigaciones Neuromusculares y Sensoriales
-- GTI - Grupo de Tecnologías Inmersivas
+- GTI - Grupo de Tecnologías Inmersivas (https://www.instagram.com/gti.fiuner/)
 
 ### 🏆 Achievements
 
