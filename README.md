@@ -2,7 +2,7 @@
 
 ## Biomedical Engineer | Medical Simulation & Computer Vision Developer
 
-I'm a Biomedical Engineering student (92% completed) at **Universidad Nacional de Entre Ríos (UNER)**, specializing in medical simulation, computer vision for rehabilitation, and VR/AR applications in healthcare.
+I'm a Biomedical Engineering student (94% completed) at **Universidad Nacional de Entre Ríos (UNER)**, specializing in medical simulation, computer vision for rehabilitation, and VR/AR applications in healthcare.
 
 ### 🔬 What I Do
 
