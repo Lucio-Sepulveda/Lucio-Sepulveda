@@ -17,6 +17,14 @@ A VR maze application for Meta Quest built in **Unity/C#**, designed for cogniti
 
 ---
 
+### [Strata — Medical Imaging Viewer in Mixed Reality *(in development)*](https://github.com/Lucio-Sepulveda/strata-medical-imaging-mr)
+
+A controller-free Mixed Reality tool for **Meta Quest 3** built in **Unity/C#** on OpenXR, letting physicians explore a patient's own **DICOM** study as an interactive 3D model for surgical planning. Operated entirely through hand tracking: pinch to grab and move, two-handed pinch to scale, thumb-and-middle pinch to sweep a slice plane that shows the source medical image registered to the reconstruction. Includes per-structure visibility and clipping. A **Python** pipeline handles segmentation and delivery to the headset.
+
+`Unity` `C#` `OpenXR` `Meta XR SDK` `Meta Quest 3` `Hand Tracking` `DICOM` `Python` `Passthrough MR`
+
+---
+
 ### [Lumbar Puncture VR Simulator *(in development)*](https://github.com/Lucio-Sepulveda/lumbar-puncture-vr-simulator)
 A medical training simulator in **Unity/C#** for Meta Quest 3, developed alongside the Faculty of Engineering (UNER) and Hospital San Martín de Paraná. Features a haptic feedback system using the **Haply Inverse3** device that simulates distinct tissue resistances at multiple anatomical depths. Built in close collaboration with physicians — clinical requirements → technical specs, iterative usability tests, parameter tuning based on medical feedback.
 
